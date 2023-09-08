@@ -21,3 +21,8 @@ cd console-tetris
 
 - [console-tetris.deb](https://github.com/GastonMGrecco/console-tetris/releases/tag/1.0.0)
 - [console-tetris.zip](https://github.com/GastonMGrecco/console-tetris/releases/tag/1.0.0)
+
+- Execute
+ ```
+console-tetris
+```
