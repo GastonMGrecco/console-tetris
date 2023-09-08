@@ -16,3 +16,8 @@ cd console-tetris
 ```
 - Execute ./consoletetris
 - Use full screen
+
+# DOWNLOAD OPTION
+
+- [console-tetris.deb](https://github.com/GastonMGrecco/console-tetris/releases/tag/1.0.0)
+- [console-tetris.zip](https://github.com/GastonMGrecco/console-tetris/releases/tag/1.0.0)
